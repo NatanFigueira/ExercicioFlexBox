@@ -1,0 +1,51 @@
+.container {
+    background-color: #888888;
+    display: flex;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.end{
+    justify-content: flex-end;
+}
+
+.center {
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-nome{
+    justify-content: space-evenly;
+}
+
+.filho {
+width: 50px;
+height: 50px;
+text-align: center;
+border-radius: 12px;
+margin: 5px;
+}
+
+.azul-claro {
+    background-color: #63B1BC;
+}
+.azul-escuro {
+    background-color: #1F2A44;
+    color: #FFFFFF;
+}
+.rosa {
+    background-color: #ED145B;
+    color: #FFFFFF;
+}
+.amarelo {
+    background-color: #EFB661;
+}
